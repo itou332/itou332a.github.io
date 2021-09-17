@@ -16,6 +16,17 @@ border-right: 1px solid black;
 min-width:60px;
 }
 
+html {
+  floot:left;
+  display:block;
+color:white;
+padding:10px 15px;
+text-align:center;
+text-decoration: none;
+border-right: 1px solid black;
+min-width:60px;
+}
+
 li a:hover{
   background-image:("https://github.com/itou332/itou332a.github.io/issues/1#issue-982431700") ;
 }
