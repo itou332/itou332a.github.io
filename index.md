@@ -1,4 +1,3 @@
-<!DOCTYP HTML>
 <html>
    <hedar>
       <link rel="stylesheet" href="style.css">
