@@ -1,0 +1,5 @@
+plugins:
+ - jekyll-sitemap
+google_analytics: UA-xxxxxx-x
+plugins:
+  - jekyll-sitemap
