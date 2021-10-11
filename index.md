@@ -19,7 +19,8 @@ lang: ja_JP
 <head>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<link rel="icon" href="img/favicon.svg" type=aoihata.svg"/svg+xml">
+<link rel="icon" href="img/favicon.svg" type=favicon.svg"/svg+xml">
+</head>
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
