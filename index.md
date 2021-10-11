@@ -1,195 +1,33 @@
+---
+layout: default
+title: 私の絵の記録　第２項
+description: PCで描いた絵をここに記録します。
+lang: ja_JP
+---
 <hedar>
 <link rel="stylesheet" href="style.css">
 <h1>2項目</h1>
-*献立
+<p>*献立
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
 -<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
+</p>
 </hedar>
 <head>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<meta name=”description” content=”
-”>
-</head>
+<link rel=“shortcut icon” href=“aoihata.svg/favicon.ico”>
+<link rel=“apple-touch-icon” href=“aoihata.svg/apple-touch-icon.png”>
+<link rel=“icon” type=“image/png” href=“aoihata.svg/android-256x256.png”>
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
-<svg
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="irosen.svg"
-   id="svg496"
-   version="1.1"
-   height="1"
-   width="450"
-   viewBox="0 0 sin*110 1"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview498"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="1.3932941"
-     inkscape:cx="259.45707"
-     inkscape:cy="-100.4813"
-     inkscape:window-width="958"
-     inkscape:window-height="974"
-     inkscape:window-x="950"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g490" />
-  <desc
-     id="desc2">hanamitainano .dxf - scale = 0.1, origin = (0.0, 0.0), method = auto</desc>
-  <defs
-     id="defs14">
-    <marker
-       id="DistanceX"
-       orient="auto"
-       refX="0"
-       refY="0"
-       style="overflow:visible">
-      <path
-         d="M 3,-3 -3,3 M 0,-5 V 5"
-         style="stroke:#000000;stroke-width:0.5"
-         id="path4" />
-    </marker>
-    <pattern
-       id="Hatch"
-       patternUnits="userSpaceOnUse"
-       width="8"
-       height="8"
-       x="0"
-       y="0">
-      <path
-         d="M8 4 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path7" />
-      <path
-         d="M6 2 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path9" />
-      <path
-         d="M4 0 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path11" />
-    </pattern>
-    <marker
-       id="DistanceX-7"
-       orient="auto"
-       refX="0"
-       refY="0"
-       style="overflow:visible">
-      <path
-         d="M 3,-3 -3,3 M 0,-5 V 5"
-         style="stroke:#000000;stroke-width:0.5"
-         id="path22567" />
-    </marker>
-    <pattern
-       id="Hatch-7"
-       patternUnits="userSpaceOnUse"
-       width="8"
-       height="8"
-       x="0"
-       y="0">
-      <path
-         d="M8 4 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path22570" />
-      <path
-         d="M6 2 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path22572" />
-      <path
-         d="M4 0 l-4,4"
-         stroke="#000000"
-         stroke-width="0.25"
-         linecap="square"
-         id="path22574" />
-    </pattern>
-  </defs>
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="_0-0_"
-     id="g20"
-     transform="translate(-244.79705,-903.71831)" />
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="_0-1_"
-     id="g490"
-     transform="translate(-244.79705,-903.71831)">
-    <g
-       id="g22616"
-       transform="translate(80.587048,69.956312)">
-      <g
-         inkscape:label="_0-0_"
-         id="g22579" />
-      <g
-         inkscape:label="ADD_LINE"
-         id="g22593">
-        <path
-           style="fill:none;stroke:#00ffff;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 672.077"
-           id="path22581" />
-        <path
-           style="fill:none;stroke:#ff00ff;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 638.389"
-           id="path22583" />
-        <path
-           style="fill:none;stroke:#ff0000;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 580.547"
-           id="path22585" />
-        <path
-           style="fill:none;stroke:#0000ff;stroke-dasharray:0.2362, 0.7087"
-           d="m 164.21,834.262 h 322.9"
-           id="path22587" />
-        <path
-           style="fill:none;stroke:#ffff00;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 375.875"
-           id="path22589" />
-        <path
-           style="fill:none;stroke:#00ff00;stroke-dasharray:0.2362, 0.7087"
-           d="M 164.21,834.262 H 277.988"
-           id="path22591" />
-      </g>
-      <g
-         inkscape:label="0"
-         id="g22595" />
-    </g>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="ADD_LINE"
-     id="g492"
-     transform="translate(-244.79705,-903.71831)" />
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="0"
-     id="g494"
-     transform="translate(-244.79705,-903.71831)" />
-</svg>
-</body>
+
 <p>2021.8/30 sen</p>
-  <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
 <svg
    width="141mm"
    height="144mm"
@@ -356,11 +194,11 @@
 </svg>
   <br>
   <p>2021.8/31 sankaku</p>
-  <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
 <svg
+   width="114.7399975mm"
+   height="115.43425mm"
    viewBox="0 0 458.95998 461.73701"
-   width="458.95999"
-   height="461.737"
    version="1.1"
    id="svg124"
    sodipodi:docname="sankaku2.svg"
@@ -875,10 +713,11 @@
    <img src="mabusii.gif">
     </div>
   <p>2021.9/4</p>
+  
 <svg
+  width="125.973mm"
+   height="100.1606mm"
    viewBox="0 0 755.83867 600.96364"
-   width="755.83868"
-   height="600.96362"
    version="1.1"
    id="svg64"
    sodipodi:docname="marubure.svg"
@@ -1064,8 +903,8 @@
   
   <svg
    viewBox="0 0 602.58763 602.48415"
-   width="602.58765"
-   height="602.48413"
+   width="150mm"
+   height="150mm"
    version="1.1"
    id="svg214"
    sodipodi:docname="try error.svg"
@@ -1615,8 +1454,8 @@
      id="g212"
      transform="translate(-104.49669,-208.37805)" />
 </svg>
+
 <p>2021.9/9</p>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    width="104.33041mm"
@@ -1885,12 +1724,10 @@
 </svg>
   
   <p>2021.9/11</p>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
+   width="105mm"
+   height="148.5mm"
    viewBox="0 0 210 297"
    version="1.1"
    id="svg5"
@@ -1960,8 +1797,6 @@
 </svg>
 
   <p>2021.9/15</p>
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
    width="155.35742mm"
