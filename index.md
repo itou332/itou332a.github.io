@@ -22,6 +22,7 @@ lang: ja_JP
 <link rel=“shortcut icon” href=“aoihata.svg/favicon.ico”>
 <link rel=“apple-touch-icon” href=“aoihata.svg/apple-touch-icon.png”>
 <link rel=“icon” type=“image/png” href=“aoihata.svg/android-256x256.png”>
+</head>
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
