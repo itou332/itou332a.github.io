@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 私の絵の記録　第２項
-description: PCで描いた絵をここに記録します。
+description: PCで描いた絵をここに記録します。This item is a note for new ideas. 
 lang: ja_JP
 ---
 <hedar>
@@ -20,6 +20,7 @@ lang: ja_JP
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="icon" type="img/x-icon" href="./favicon.png">
+<meta name="keywords" content="記録,svg,絵">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
@@ -708,7 +709,7 @@ lang: ja_JP
   2021.9.3
   
   <div>
-   <img src="mabusii.gif">
+   <img src="mabusii.gif" onclick="this.setAttribute('src', this.getAttribute('src').replace(/_play.gif$/g, '.gif'));" style="cursor: pointer;">>
     </div>
   <p>2021.9/4</p>
   
