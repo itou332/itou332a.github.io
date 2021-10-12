@@ -709,7 +709,7 @@ lang: ja_JP
   2021.9.3
   
   <div>
-   <img src="mabusii.gif" onclick="this.setAttribute('src', this.getAttribute('src').replace(/_play.gif$/g, '.gif'));" style="cursor: pointer;">>
+   <img src="mabusii.gif" onclick="this.setAttribute('src', this.getAttribute('src').replace(/_play.gif$/g, '.gif'));" style="cursor: pointer;">
     </div>
   <p>2021.9/4</p>
   
