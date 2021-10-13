@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 私の絵の記録　第２項
+title: 私の絵の記録　第２項/My painting record, paragraph 2.
 description: PCで描いた絵をここに記録します。This item is a note for new ideas. 
 lang: ja_JP
 ---
@@ -20,7 +20,7 @@ lang: ja_JP
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <link rel="icon" type="img/x-icon" href="./favicon.png">
-<meta name="keywords" content="記録,svg,絵">
+<meta name="keywords" content="記録,paragraph 2,絵">
 <body>
 <hr>
 <h2>-絵を記録します。</h2>
