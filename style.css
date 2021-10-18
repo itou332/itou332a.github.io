@@ -1,11 +1,10 @@
 
 html {
-  floot:left;
+  floot:none;
   display:block;
 padding:10px 15px;
 text-align:center;
 text-decoration: none;
-border-right: 1px solid rgb(15, 121, 241);
 min-width:60px;
 }
 
@@ -19,5 +18,5 @@ html {
     box-sizing: border-box;
     display: grid;
     place-content: center;
-    font-family: system-ui, sans-serif;
+    font-family: system-ui, "P 明朝";
   }
