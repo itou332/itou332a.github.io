@@ -17,9 +17,21 @@ lang: ja_JP
 </p>
 </hedar>
 <head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-REM6WSLP19"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-REM6WSLP19');
+</script>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+<!-- Favicon head tag -->
 <link rel="icon" type="img/x-icon" href="./favicon.png">
+<link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
+<link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
 <meta name="keywords" content="記録,paragraph 2,絵">
 <body>
 <hr>
