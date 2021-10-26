@@ -11,7 +11,7 @@ lang: ja_JP
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
--<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
+-<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
 </p>
@@ -37,7 +37,7 @@ lang: ja_JP
 <hr>
 <h2>-絵を記録します。</h2>
 
-<p>2021.8/30 sen</p>
+<h3>2021.8/30 sen</h3>
 
 <svg
    width="141mm"
@@ -204,7 +204,7 @@ lang: ja_JP
   </g>
 </svg>
   <br>
-  <p>2021.8/31 sankaku</p>
+  <h3>2021.8/31 sankaku</h3>
 
 <svg
    width="114.7399975mm"
@@ -499,7 +499,7 @@ lang: ja_JP
      id="g122"
      transform="translate(-158.247,-612.213)" />
 </svg>
-  <p>mura</p>
+  <h3>mura</h3>
   <svg
    width="144.64859mm"
    height="151.63075mm"
@@ -718,12 +718,12 @@ lang: ja_JP
   </g>
   </svg>
   
-  2021.9.3
+  <h3>2021.9.3</h3>
   
   <div>
    <img src="mabusii.gif" onclick="this.setAttribute('src', this.getAttribute('src').replace(/_play.gif$/g, '.gif'));" style="cursor: pointer;">
     </div>
-  <p>2021.9/4</p>
+  <h3>2021.9/4</h3>
   
 <svg
   width="125.973mm"
@@ -910,7 +910,7 @@ lang: ja_JP
      transform="translate(-63.192157,-247.84303)" />
 </svg>
   <br>
-  <p>2021.9/7</p>
+  <h3>2021.9/7</h3>
   
   <svg
    viewBox="0 0 602.58763 602.48415"
@@ -1466,7 +1466,7 @@ lang: ja_JP
      transform="translate(-104.49669,-208.37805)" />
 </svg>
 
-<p>2021.9/9</p>
+<h3>2021.9/9</h3>
 
 <svg
    width="104.33041mm"
@@ -1734,7 +1734,7 @@ lang: ja_JP
   </g>
 </svg>
   
-  <p>2021.9/11</p>
+  <h3>2021.9/11</h3>
 
 <svg
    width="105mm"
@@ -1807,7 +1807,7 @@ lang: ja_JP
   </g>
 </svg>
 
-  <p>2021.9/15</p>
+  <h3>2021.9/15</h3>
 
 <svg
    width="155.35742mm"
@@ -15887,7 +15887,7 @@ lang: ja_JP
   </g>
 </svg>
 
-<p>2021.9/16</p>
+<h3>2021.9/16</h3>
 
 <svg
    width="93.894295mm"
@@ -40630,7 +40630,7 @@ xAHEJDKP8vUolEolEr7f/9k=
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/diary">3項目</a>
 -<a href="https://itou332.github.io/today/">4項目</a>
--<a href="http://itou33good.starfree.jp/?page_id=234">免責事項</a>
+-<a href="https://itou332.github.io/Privacy-policy/">免責事項</a>
 -<a href="https://github.com/itou332">my github</a>
 -<a href="http://itou33good.starfree.jp/">itou</a>
   <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
