@@ -39812,7 +39812,7 @@ B2ceeuwikG6dck8rFUfmoOW4C6ajqkpb0sFRhlD+ATRi5GSGko8hAAAAAElFTkSuQmCC
   </g>
 </svg>
 
-<p>2021.9/17</p>
+<h3>2021.9/17</h3>
 
 <svg
    width="172.3116mm"
@@ -40635,7 +40635,7 @@ xAHEJDKP8vUolEolEr7f/9k=
 -<a href="http://itou33good.starfree.jp/">itou</a>
   <svg xmlns="http://www.w3.org/2000/svg" width="200" height="250">
                 <text x="0" y="30" transform="rotate(45 40,40)">
-                  Copyright © 2021 itou Inc. All Rights Reserved.
+                 © 2021 itou Inc.
                 </text>
 </footer>
 </html>
