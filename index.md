@@ -36,6 +36,7 @@ lang: ja_JP
 <link rel="icon" type="img/x-icon" href="./favicon.png">
 <link rel="apple-touch-icon" href="./images/favicon.png" sizes="180x180">
 <link rel="icon" type="image/png" href="./images/favicon.png" sizes="192x192">
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta name="keywords" content="記録,paragraph 2,絵">
 <body>
 <hr>
