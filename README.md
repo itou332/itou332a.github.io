@@ -4,9 +4,10 @@
 
 # itou332a.github.io
 new page<hr>
-<p>'''<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->"'''</p>
-'''<svg
+<cord><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) --></p>
+
+<svg
    width="30.82056mm"
    height="41.91138mm"
    viewBox="0 0 630.82055 641.91137"
@@ -1103,4 +1104,5 @@ new page<hr>
        id="text13743"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13745);fill:#000000;fill-opacity:1;stroke:none" />
   </g>
-</svg>'''
+</svg>
+</cord>
