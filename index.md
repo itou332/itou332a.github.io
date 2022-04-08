@@ -45,12 +45,6 @@ lang: ja_JP
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta name="keywords" content="記録,paragraph 2,絵">
 {% seo %}
-
-rel=”alternate” hreflang=”bh”
-rel=”alternate” hreflang=”eng”
-rel=”alternate” hreflang=”gle”
-rel=”alternate” hreflang=”sq”
-rel=”alternate” hreflang=”zh”
 </head>
 <body>
 <hr>
