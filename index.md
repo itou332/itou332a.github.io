@@ -33,7 +33,6 @@ lang: ja_JP
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-RC7DDWGJQ6');
 </script>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -45,6 +44,7 @@ lang: ja_JP
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 <meta name="keywords" content="記録,paragraph 2,絵">
 {% seo %}
+<meta name="google-site-verification" content="tQGwmktjW1w-gKuPF7mYbIZdiE9Bw_KZj8tHcro6qo0" />
 </head>
 <body>
 <hr>
