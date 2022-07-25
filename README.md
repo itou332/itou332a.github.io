@@ -1,11 +1,12 @@
 # itou332a.github.io
 new page<hr>
+```mermaid
 |	        |サイト評価      |
 | ------------- |:-------------: |
 |- [ ] check    |面白い　　　　　|
 |- [ ] check    |つまらない　　　|
 |- [x] check　　|今までにない　　|
-
+```
 ##*献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/">1項目</a>
