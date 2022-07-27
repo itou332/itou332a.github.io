@@ -1,13 +1,19 @@
 # itou332a.github.io
 new page<hr>
-```mermaid
-|             |サイト評価      |
-|-------------|:-------------:|
+
+[![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/itou332a.github.io)
+
+
+```
+mermaid
+|	            |サイト評価      |
+| ------------- |:-------------:|
 |- [ ] check    |面白い　　　　　|
 |- [ ] check    |つまらない　　　|
 |- [x] check　　|今までにない　　|
 ```
-##*献立
+
+## *献立
 -<a href="https://itou332.github.io/top_page/">主項目</a>
 -<a href="https://itou332.github.io/">1項目</a>
 -<a href="https://itou332.github.io/itou332a.github.io/">2項目</a>
