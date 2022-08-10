@@ -1,6 +1,6 @@
 ---
 layout: default
-title: web絵　第２項/My painting record, paragraph 2.
+title: web絵　第2項/My painting record, paragraph 2.
 description: PCで描いた絵をここに記録します。<br>
 このサイトはダークモードにしたり、ブラウザーを変えると見え方が少し変わります。<br> 
 pc,androidのスペックでも絵が変化します。絵はsvg形式で書かれています。<br>
@@ -40,7 +40,7 @@ lang: ja_JP
   gtag('config', 'G-RC7DDWGJQ6');
 </script>
 <link rel="stylesheet" href="style.css">
-<BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Times New Roman"; font-size:x-small }>
+<style>BODY,DIV,TABLE,THEAD,TBODY,TFOOT,TR,TH,TD,P { font-family:"Times New Roman"; font-size:x-small ;}svg,script {margin: 0 auto;  /* ボックス中央寄せ */}</style>
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 <!-- Favicon head tag -->
