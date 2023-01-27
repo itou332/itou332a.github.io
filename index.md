@@ -12,10 +12,8 @@ lang: ja_JP
 ---
 <hedar>
 <h1>2項</h1>
-<abbr title="sitemenu 献立 項目">
 <nav aria-label="サイト内メニュー">
  *献立
- </addr>
     -<a href="https://itou332.github.io/top_page/">主項</a>
     -<a href="https://itou332.github.io/">1項</a>
     -<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
