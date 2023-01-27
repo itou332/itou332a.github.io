@@ -528,8 +528,10 @@ lang: ja_JP
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_1_en.wav">
     </audio>
 </figure>
-
 </svg>
+
+<br>
+
   <h3>mura</h3>
   <!--5つのシミがある。しみの縁は黒い線のようになっている。シミは背景との色と同化している。_There are 5 stains. The edges of the blotches look like black lines. The stains are assimilated with the color of the background.-->
   <svg
@@ -1838,7 +1840,7 @@ lang: ja_JP
 
   <h3>2021.9/11</h3>
 
-<!---->
+<!--立方体が長方形を縁どる形に整列している。微妙にずれているが、それなりに整列している。立方体の周りには、ひし形が配置されている。全体的には斜め上からみているような構図だが、ひし形の配列と何もない空間が妙に合わさって平面的な模様にも見える。_The cubes are aligned in the shape of a rectangle. It is slightly off, but it is reasonably aligned. Around the cube, a rhombus is arranged. Overall, the composition looks like it is viewed from an oblique top, but the diamond-shaped arrangement and empty space are strangely combined to make it look like a flat pattern.-->
 
 <svg
    width="105mm"
@@ -1915,15 +1917,12 @@ lang: ja_JP
     <figcaption>日本語/jp</figcaption>
     <audio
         controls
-        src="C:\Users\ULTRABOOK\Desktop\softalk\git_blog_data\1kou\kuromaru_jp.wav">
-            <a href="C:\Users\ULTRABOOK\Desktop\softalk\git_blog_data\1kou\kuromaru_jp.wav">
-                Download audio
-            </a>
+        src="">
     </audio>
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="C:\Users\ULTRABOOK\Desktop\softalk\git_blog_data\1kou\kuromaru_en.wav"">
+        src="">
     </audio>
 </figure>
 
@@ -39957,8 +39956,7 @@ B2ceeuwikG6dck8rFUfmoOW4C6ajqkpb0sFRhlD+ATRi5GSGko8hAAAAAElFTkSuQmCC
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_8-en.wav">
     </audio>
 </figure>
-
-<h3>2021.9/17</h3>
+h3>2021.9/17</h3>
 <!--溶けた硝子のようなものが、三つの円を作り出している。背景は白色だが、黒くなっている部分もある。重なり合った部分から、赤や青、緑や黄色があふれだしている。下部から波紋が全体に広がっている。_Something like molten glass creates three circles. The background is white, but there are some areas that are black. Reds, blues, greens and yellows overflow from the overlapping parts. Ripples spread from the lower part throughout.-->
 <svg
    width="172.3116mm"
@@ -40783,7 +40781,6 @@ xAHEJDKP8vUolEolEr7f/9k=
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_9_en.wav">
     </audio>
 </figure>
-
 <footer>
 <abbr title="sitemenu 献立 項目">
 <nav aria-label="サイト内メニュー">
