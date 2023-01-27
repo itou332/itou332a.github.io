@@ -757,7 +757,7 @@ lang: ja_JP
         controls
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_2_jp.wav">
     </audio>
-    <figcaption>en</figcaption>
+    <figcaption>en/英語</figcaption>
       <audio
         controls
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_2_en.wav">
@@ -16014,7 +16014,7 @@ lang: ja_JP
     <figcaption>en/英語</figcaption>
       <audio
         controls
-        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_7_en.wav"">
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_7_en.wav">
     </audio>
 </figure>
 
@@ -39955,7 +39955,7 @@ B2ceeuwikG6dck8rFUfmoOW4C6ajqkpb0sFRhlD+ATRi5GSGko8hAAAAAElFTkSuQmCC
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_8-en.wav">
     </audio>
 </figure>
-h3>2021.9/17</h3>
+<h3>2021.9/17</h3>
 <!--溶けた硝子のようなものが、三つの円を作り出している。背景は白色だが、黒くなっている部分もある。重なり合った部分から、赤や青、緑や黄色があふれだしている。下部から波紋が全体に広がっている。_Something like molten glass creates three circles. The background is white, but there are some areas that are black. Reds, blues, greens and yellows overflow from the overlapping parts. Ripples spread from the lower part throughout.-->
 <svg
    width="172.3116mm"
@@ -40780,6 +40780,7 @@ xAHEJDKP8vUolEolEr7f/9k=
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_9_en.wav">
     </audio>
 </figure>
+
 <footer>
 <abbr title="sitemenu 献立 項目">
 <nav aria-label="サイト内メニュー">
