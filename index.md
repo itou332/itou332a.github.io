@@ -515,6 +515,7 @@ lang: ja_JP
      inkscape:label="0"
      id="g122"
      transform="translate(-158.247,-612.213)" />
+</svg>
 
 <figure>
     <figcaption>日本語/jp</figcaption>
@@ -528,10 +529,8 @@ lang: ja_JP
         src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_1_en.wav">
     </audio>
 </figure>
-</svg>
 
 <br>
-
   <h3>mura</h3>
   <!--5つのシミがある。しみの縁は黒い線のようになっている。シミは背景との色と同化している。_There are 5 stains. The edges of the blotches look like black lines. The stains are assimilated with the color of the background.-->
   <svg
