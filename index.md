@@ -12,8 +12,10 @@ lang: ja_JP
 ---
 <hedar>
 <h1>2項</h1>
+<abbr title="sitemenu 献立 項目">
 <nav aria-label="サイト内メニュー">
  *献立
+ </addr>
     -<a href="https://itou332.github.io/top_page/">主項</a>
     -<a href="https://itou332.github.io/">1項</a>
     -<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
@@ -61,6 +63,7 @@ lang: ja_JP
 <h2>絵を記録します。</h2>
 
 <h3>2021.8/30 sen</h3>
+<!---->
 <svg
    width="100"
    height="144mm"
@@ -205,9 +208,23 @@ lang: ja_JP
        sodipodi:nodetypes="ssssssss" />
   </g>
 </svg>
+<!--
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="C:\Users\ULTRABOOK\Desktop\softalk\git_blog_data\1kou\kuromaru_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="C:\Users\ULTRABOOK\Desktop\softalk\git_blog_data\1kou\kuromaru_en.wav"">
+    </audio>
+</figure>
+-->
   <br>
   <h3>2021.8/31 sankaku</h3>
-
+<!--大小様々な17個の三角形がまばらにちりばめられている_17 triangles of various sizes are sparsely studded-->
 <svg
    width="114.7399975mm"
    height="115.43425mm"
@@ -500,8 +517,23 @@ lang: ja_JP
      inkscape:label="0"
      id="g122"
      transform="translate(-158.247,-612.213)" />
+
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_1_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_1_en.wav">
+    </audio>
+</figure>
+
 </svg>
   <h3>mura</h3>
+  <!--5つのシミがある。しみの縁は黒い線のようになっている。シミは背景との色と同化している。_There are 5 stains. The edges of the blotches look like black lines. The stains are assimilated with the color of the background.-->
   <svg
    width="144.64859mm"
    height="151.63075mm"
@@ -719,14 +751,42 @@ lang: ja_JP
        r="21.081638" />
   </g>
   </svg>
+
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_2_jp.wav">
+    </audio>
+    <figcaption>en</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_2_en.wav">
+    </audio>
+</figure>
+
   
   <h3>2021.9.3</h3>
-  
+  <!--薄く平べったい角のとれとれた台形状の物体が、ふわふわと同じ軌道を描いて浮遊するように見える。赤・黄・緑・白が入り乱れて光の反射連想させる。_A thin, flat, trapezoidal object with rounded corners appears to float in the same trajectory as the fluffy. Red, yellow, green, and white are mixed together to evoke the reflection of light.-->
   <div>
    <img src="mabusii.gif" onclick="this.setAttribute('src', this.getAttribute('src').replace(/_play.gif$/g, '.gif'));" style="cursor: pointer;">
     </div>
+
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_3_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_3_en.wav">
+    </audio>
+</figure>
+
   <h3>2021.9/4</h3>
-  
+  <!--様々な種類の点線で描かれた円が、ぶれるように重なっている。_Circles drawn with various kinds of dotted lines overlap in a shaky manner.-->
 <svg
   width="125.973mm"
    height="100.1606mm"
@@ -911,9 +971,23 @@ lang: ja_JP
      id="g62"
      transform="translate(-63.192157,-247.84303)" />
 </svg>
+
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_4_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_4_en.wav">
+    </audio>
+</figure>
   <br>
+
   <h3>2021.9/7</h3>
-  
+  <!--四角形の中に３つの大きさの四角形が配置されている。中心から規則的に大きくなるように置かれている。ところどころに英語で文字が書かれている。文字は、品質・挑戦・失敗・完璧と書かれている。_Three sized squares are arranged in the rectangle. It is placed so that it grows regularly from the center. Letters are written in English here and there. The letters are written quality, challenge, failure, and perfection.-->
   <svg
    viewBox="0 0 602.58763 602.48415"
    width="150mm"
@@ -1468,7 +1542,22 @@ lang: ja_JP
      transform="translate(-104.49669,-208.37805)" />
 </svg>
 
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_5_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_5_en.wav">
+    </audio>
+</figure>
+
 <h3>2021.9/9</h3>
+
+<!--和紙の様に見える物体は、表面が凸凹している。色は薄いタマムシイしている。_Objects that look like Japanese paper have uneven surfaces. The color is light tamamushii.-->
 
 <svg
    width="104.33041mm"
@@ -1736,7 +1825,22 @@ lang: ja_JP
   </g>
 </svg>
   
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_6_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_6_en.wav">
+    </audio>
+</figure>
+
   <h3>2021.9/11</h3>
+
+<!---->
 
 <svg
    width="105mm"
@@ -1809,8 +1913,24 @@ lang: ja_JP
   </g>
 </svg>
 
-  <h3>2021.9/15</h3>
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="C:\Users\ULTRABOOK\Desktop\softalk\git_blog_data\1kou\kuromaru_jp.wav">
+            <a href="C:\Users\ULTRABOOK\Desktop\softalk\git_blog_data\1kou\kuromaru_jp.wav">
+                Download audio
+            </a>
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="C:\Users\ULTRABOOK\Desktop\softalk\git_blog_data\1kou\kuromaru_en.wav"">
+    </audio>
+</figure>
 
+  <h3>2021.9/15</h3>
+<!--立方体が長方形を縁どる形に整列している。微妙にずれているが、それなりに整列している。立方体の周りには、ひし形が配置されている。全体的には斜め上からみているような構図だが、ひし形の配列と何もない空間が妙に合わさって平面的な模様にも見える。_The cubes are aligned in the shape of a rectangle. It is slightly off, but it is reasonably aligned. Around the cube, a rhombus is arranged. Overall, the composition looks like it is viewed from an oblique top, but the diamond-shaped arrangement and empty space are strangely combined to make it look like a flat pattern.-->
 <svg
    width="155.35742mm"
    height="91.135414mm"
@@ -15889,8 +16009,21 @@ lang: ja_JP
   </g>
 </svg>
 
-<h3>2021.9/16</h3>
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_7_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_7_en.wav"">
+    </audio>
+</figure>
 
+<h3>2021.9/16</h3>
+<!--黄いもやもや。その隙間に緑色と黒色が見える。_Yellow haze. Green and black colors can be seen in the gaps.-->
 <svg
    width="93.894295mm"
    height="205.03452mm"
@@ -39814,8 +39947,21 @@ B2ceeuwikG6dck8rFUfmoOW4C6ajqkpb0sFRhlD+ATRi5GSGko8hAAAAAElFTkSuQmCC
   </g>
 </svg>
 
-<h3>2021.9/17</h3>
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_8_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_8-en.wav">
+    </audio>
+</figure>
 
+<h3>2021.9/17</h3>
+<!--溶けた硝子のようなものが、三つの円を作り出している。背景は白色だが、黒くなっている部分もある。重なり合った部分から、赤や青、緑や黄色があふれだしている。下部から波紋が全体に広がっている。_Something like molten glass creates three circles. The background is white, but there are some areas that are black. Reds, blues, greens and yellows overflow from the overlapping parts. Ripples spread from the lower part throughout.-->
 <svg
    width="172.3116mm"
    height="166.56287mm"
@@ -40627,9 +40773,24 @@ xAHEJDKP8vUolEolEr7f/9k=
   </g>
 </svg>
 
+<figure>
+    <figcaption>日本語/jp</figcaption>
+    <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_9_jp.wav">
+    </audio>
+    <figcaption>en/英語</figcaption>
+      <audio
+        controls
+        src="http://itou33good.starfree.jp/wp-content/uploads/2023/01/2_9_en.wav">
+    </audio>
+</figure>
+
 <footer>
+<abbr title="sitemenu 献立 項目">
 <nav aria-label="サイト内メニュー">
  *献立
+ </addr>
     -<a href="https://itou332.github.io/top_page/">主項</a>
     -<a href="https://itou332.github.io/">1項</a>
     -<a href="https://itou332.github.io/itou332a.github.io/">2項</a>
