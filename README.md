@@ -3,12 +3,11 @@ new page<hr>
 
 [![Open in Visual Studio Code](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=Open%20in%20Visual%20Studio%20Code&labelColor=2c2c32&color=007acc&logoColor=007acc)](https://open.vscode.dev/itou332/itou332a.github.io)
 
-mermaid
 ||サイト評価|
 |:---:|:---:|
 |- [ ] check      |面白い　　　　　|
 |- [ ] check      |つまらない　　　|
-|- [x] check　　  |今までにない　　|
+|- [x] check　　   |今までにない　　|
 
   <nav aria-label="サイト内メニュー">
     <p>*献立</p>
